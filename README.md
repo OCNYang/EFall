@@ -1,7 +1,7 @@
 # EFall
 
-[![](https://img.shields.io/badge/ocnyang-筑一座柔城，愿每一次心的疲惫，都能在这得到抚慰......-lightgrey.svg?style=flat)](http://ocnyang.com/)
-[![](https://img.shields.io/badge/EFall-JusttoWaitforYou-blue.svg?style=flat)](http://love.shedoor.net/)
+[![ForIt](https://img.shields.io/badge/ocnyang-筑一座柔城，愿每一次心的疲惫，都能在这得到抚慰......-lightgrey.svg?style=flat)](http://ocnyang.com/)
+[![遇见](https://img.shields.io/badge/EFall-Just%20to%20Wait%20for%20You-blue.svg?style=flat)](http://love.shedoor.net/)
 
 ## 壹.  
 
