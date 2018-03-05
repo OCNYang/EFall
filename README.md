@@ -4,13 +4,13 @@
 [![遇见](https://img.shields.io/badge/EFall-Just%20to%20Wait%20for%20You-blue.svg?style=flat)](http://love.shedoor.net/)
 
 <br/>
-
-<center>心有千千结，</center>  
-<center>结结相思扣。</center>  
-<center>相思扣难解，</center>  
-<center>心上一度秋。</center>  
-<center>  ———OCNYang《心结》</center>  
-
+<div align="center">
+<center>心有千千结，</center><br/>  
+<center>结结相思扣。</center><br/>  
+<center>相思扣难解，</center><br/>  
+<center>心上一度秋。</center><br/>  
+<center>  ———OCNYang《心结》</center><br/>  
+</div>
 <br/>
 
 ## 壹.  
