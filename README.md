@@ -3,6 +3,16 @@
 [![ForIt](https://img.shields.io/badge/ocnyang-筑一座柔城，愿每一次心的疲惫，都能在这得到抚慰......-lightgrey.svg?style=flat)](http://ocnyang.com/)
 [![遇见](https://img.shields.io/badge/EFall-Just%20to%20Wait%20for%20You-blue.svg?style=flat)](http://love.shedoor.net/)
 
+<br/>
+
+<center>心有千千结，</center>  
+<center>结结相思扣。</center>  
+<center>相思扣难解，</center>  
+<center>心上一度秋。</center>  
+<center>  ———OCNYang《心结》</center>  
+
+<br/>
+
 ## 壹.  
 
     无人与我立黄昏，
