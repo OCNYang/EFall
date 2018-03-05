@@ -5,11 +5,12 @@
 
 <br/>
 <div align="center">
+<center>《心结》</center><br/>
+<center>--OCNYang</center><br/>
 <center>心有千千结，</center><br/>  
 <center>结结相思扣。</center><br/>  
 <center>相思扣难解，</center><br/>  
-<center>心上一度秋。</center><br/>  
-<center>  ———OCNYang《心结》</center><br/>  
+<center>心上一度秋。</center><br/>    
 </div>
 <br/>
 
